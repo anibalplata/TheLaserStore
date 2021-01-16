@@ -1,11 +1,11 @@
-## Welcome to The Laser Shop
+# Welcome to The Laser Shop
 
 
-Hero you can ejoy my creations.
+Here you can ejoy my creations.
 
 
-Below I have multiple poctures of tumblers engraved with laser.
+_Below I have multiple poctures of tumblers engraved with laser._
 
 Also I have samples for laser engraved Iwatch bands.
 
-Thr shop works with wood too.
+### The shop works with wood too.
